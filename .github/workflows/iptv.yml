@@ -5,7 +5,7 @@ on:
     types: [started]
   schedule:
    - cron: 0 */4 * * *
-   workflow_dispatch:
+  workflow_dispatch:
     branches:
       - main
 
@@ -25,7 +25,6 @@ jobs:
 
     - name: Update
       run: |
-
         rm -f CCTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CCTV.m3u
         sed -i -n '/CCTV-1\|CCTV-2\|CCTV-3\|CCTV-4\|CCTV-5\|CCTV-5\|CCTV-6\|CCTV-7\|CCTV-8\|CCTV-9\|CCTV-10\|CCTV-11\|CCTV-12\|CCTV-13\|CCTV-14\|CCTV-15\|CCTV-16\|CCTV-17\|CCTV-4K\|CCTV-8K\+/,+1p' CCTV.m3u
         sed -i 's/央视频道/央视/' CCTV.m3u
@@ -73,4 +72,4 @@ jobs:
         git commit -am "${{ steps.date.outputs.date }}"
 
     - name: Push
-      run: git push -f origin master
+      run: git push -f origin main
