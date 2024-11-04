@@ -6,6 +6,7 @@ http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC影迷电影.png" group-title="数字经典",CHC影迷电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.kakaxi-1.ink/LOGO/都市剧场.png" group-title="数字经典",都市剧场
+http://ds920.dsmynas.net:5555/rtp/226.0.2.81:8560
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.kakaxi-1.ink/LOGO/欢笑剧场.png" group-title="数字经典",欢笑剧场
 #EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/淘电影.png" group-title="数字经典",淘电影
 #EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://live.kakaxi-1.ink/LOGO/淘剧场.png" group-title="数字经典",淘剧场
