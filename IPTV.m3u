@@ -95,10 +95,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288016/index.m3u
 http://148.135.93.213:81/live.php?id=CHC动作电影
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC家庭影院.png" group-title="数字",CHC家庭影院
 http://148.135.93.213:81/live.php?id=CHC家庭影院
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.kakaxi-1.ink/LOGO/黑莓动画.png" group-title="数字",黑莓动画
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/黑莓电影.png" group-title="数字",黑莓电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225743/2.m3u8
 #EXTINF:-1 tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://live.fanmingming.com/tv/IHOT爱院线.png" group-title="IHOT IPv6",iHOT爱院线
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="IHOT IPv6",iHOT爱科幻
