@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://kakaxi-1.asia/LOGO/CHC动作电影.png" group-title="数字",CHC动作电影
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://kakaxi-1.asia/LOGO/CHC家庭影院.png" group-title="数字",CHC家庭影院
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://kakaxi-1.asia/LOGO/CHC影迷电影.png" group-title="数字",CHC影迷电影
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://kakaxi-1.asia/LOGO/都市剧场.png" group-title="数字",都市剧场
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226155/1.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://kakaxi-1.asia/LOGO/欢笑剧场.png" group-title="数字",欢笑剧场
