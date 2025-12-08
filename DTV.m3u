@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://kakaxi-1.asia/LOGO/都市剧场.png" group-title="数字",都市剧场
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000004412/1.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://kakaxi-1.asia/LOGO/欢笑剧场.png" group-title="数字",欢笑剧场
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000009455/1.m3u8
