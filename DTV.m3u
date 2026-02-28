@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="http://kakaxi.indevs.in/LOGO/黑莓电影.png" group-title="数字",黑莓电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225764/2/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="http://kakaxi.indevs.in/LOGO/黑莓动画.png" group-title="数字",黑莓动画
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225672/2/index.m3u8
