@@ -14799,6 +14799,12 @@
 	<programme channel="咪咕综合体育" start="20260608144500 +0800" stop="20260608145000 +0800">
 		<title lang="zh">星耀世界杯</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260608150000 +0800" stop="20260608152000 +0800">
+		<title lang="zh">咪咕体育日报直播</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260608152500 +0800" stop="20260608172500 +0800">
+		<title lang="zh">网球世界-2025WTA1000罗马站 决赛 高芙-保利尼</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14864,6 +14870,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260608144500 +0800" stop="20260608154500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260608155000 +0800" stop="20260608165000 +0800">
+		<title lang="zh">中国榜样篮球季对话周鹏</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50274,6 +50283,12 @@
 	<programme channel="newtv超级综艺" start="20260608133500 +0800" stop="20260608150000 +0800">
 		<title lang="zh">信马游疆</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260608150000 +0800" stop="20260608162400 +0800">
+		<title lang="zh">国风超有戏b7寻风季</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260608162400 +0800" stop="20260608172600 +0800">
+		<title lang="zh">中国乡村音乐大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50325,6 +50340,9 @@
 	<programme channel="newtv超级体育" start="20260608143000 +0800" stop="20260608153100 +0800">
 		<title lang="zh">2026年世界体操挑战杯系列赛-科佩尔站1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260608153100 +0800" stop="20260608170000 +0800">
+		<title lang="zh">实况录像-绿茵经典-2022年卡塔尔世界杯 1/4决赛 阿根廷队-荷兰队</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50357,6 +50375,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260608134800 +0800" stop="20260608151900 +0800">
 		<title lang="zh">路尽骄阳</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260608151900 +0800" stop="20260608163100 +0800">
+		<title lang="zh">军火大劫案</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50423,6 +50444,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260608140600 +0800" stop="20260608145200 +0800">
 		<title lang="zh">16_新居之约</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260608145200 +0800" stop="20260608153700 +0800">
+		<title lang="zh">17_新居之约</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260608153700 +0800" stop="20260608161900 +0800">
+		<title lang="zh">32_蝶影</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260608161900 +0800" stop="20260608170400 +0800">
+		<title lang="zh">33_蝶影</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51041,6 +51071,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260608144200 +0800" stop="20260608152600 +0800">
 		<title lang="zh">16_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260608152600 +0800" stop="20260608155700 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260608155700 +0800" stop="20260608164300 +0800">
+		<title lang="zh">17_风暴舞</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
