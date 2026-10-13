@@ -17043,6 +17043,9 @@
 	<programme channel="咪咕综合体育" start="20261013091500 +0800" stop="20261013105500 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第27轮 成都蓉城-天津津门虎</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261013110000 +0800" stop="20261013114000 +0800">
+		<title lang="zh">泳者孙杨观察室第一期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17081,6 +17084,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20261013090500 +0800" stop="20261013103500 +0800">
 		<title lang="zh">篮球：为爱而生08 梦之队</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261013103500 +0800" stop="20261013104500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261013104500 +0800" stop="20261013114500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -57216,6 +57225,9 @@
 	<programme channel="newtv超级综艺" start="20261013090700 +0800" stop="20261013102400 +0800">
 		<title lang="zh">你好时光 第二季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261013102400 +0800" stop="20261013112400 +0800">
+		<title lang="zh">跟着春晚游中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -57246,6 +57258,9 @@
 	<programme channel="newtv超级体育" start="20261013090100 +0800" stop="20261013104100 +0800">
 		<title lang="zh">2026/2027西班牙足球甲级联赛-第8轮(巴塞罗那-赫塔费)(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261013104100 +0800" stop="20261013120000 +0800">
+		<title lang="zh">实况录像-2026年亚运会 女篮决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -57266,6 +57281,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261013080600 +0800" stop="20261013092600 +0800">
 		<title lang="zh">东北老丈人</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261013092600 +0800" stop="20261013105000 +0800">
+		<title lang="zh">暗潮汹涌之惊魂12小时</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261013105000 +0800" stop="20261013121300 +0800">
+		<title lang="zh">无人机</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -57308,6 +57329,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261013090100 +0800" stop="20261013094600 +0800">
 		<title lang="zh">35_好事成双</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261013094600 +0800" stop="20261013103200 +0800">
+		<title lang="zh">22_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261013103200 +0800" stop="20261013111900 +0800">
+		<title lang="zh">23_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -57902,6 +57929,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261013090600 +0800" stop="20261013093600 +0800">
 		<title lang="zh">珍膳私享特膳粉推荐第一期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261013093600 +0800" stop="20261013102000 +0800">
+		<title lang="zh">03_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261013102000 +0800" stop="20261013105000 +0800">
+		<title lang="zh">珍膳私享特膳粉推荐第一期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261013105000 +0800" stop="20261013113400 +0800">
+		<title lang="zh">04_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
