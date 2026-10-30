@@ -17439,6 +17439,12 @@
 	<programme channel="咪咕综合体育" start="20261030091500 +0800" stop="20261030094000 +0800">
 		<title lang="zh">欧陆足球版图-英超特辑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261030094500 +0800" stop="20261030112500 +0800">
+		<title lang="zh">当燃CBA-26/27赛季常规赛第2轮 北京控股-上海久事</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261030113000 +0800" stop="20261030120000 +0800">
+		<title lang="zh">泳者孙杨03-着陆</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -58542,6 +58548,12 @@
 	<programme channel="newtv超级综艺" start="20261030085600 +0800" stop="20261030095600 +0800">
 		<title lang="zh">国音正青春</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261030095600 +0800" stop="20261030113800 +0800">
+		<title lang="zh">第二届丝路之星国际音乐大赛</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261030113800 +0800" stop="20261030132300 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58572,6 +58584,9 @@
 	<programme channel="newtv超级体育" start="20261030090100 +0800" stop="20261030103100 +0800">
 		<title lang="zh">2026/2027意大利足球甲级联赛-第9轮（罗马—卡利亚里）</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261030103100 +0800" stop="20261030120000 +0800">
+		<title lang="zh">实况录像-2026/2027赛季中国男子篮球职业联赛 第5轮 山东高速—北京首钢</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -58592,6 +58607,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261030080400 +0800" stop="20261030093400 +0800">
 		<title lang="zh">终极硬汉</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261030093400 +0800" stop="20261030104500 +0800">
+		<title lang="zh">石榴熟了之一拍到底</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261030104500 +0800" stop="20261030121600 +0800">
+		<title lang="zh">血战残阳</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58634,6 +58655,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261030091200 +0800" stop="20261030095800 +0800">
 		<title lang="zh">29_依然的喜事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261030095800 +0800" stop="20261030104400 +0800">
+		<title lang="zh">12_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261030104400 +0800" stop="20261030112900 +0800">
+		<title lang="zh">13_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261030112900 +0800" stop="20261030121500 +0800">
+		<title lang="zh">14_刑警的日子</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59228,6 +59258,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261030091700 +0800" stop="20261030100200 +0800">
 		<title lang="zh">20_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030100200 +0800" stop="20261030104800 +0800">
+		<title lang="zh">21_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030104800 +0800" stop="20261030112300 +0800">
+		<title lang="zh">TEWYOL远红外前列腺理疗贴-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261030112300 +0800" stop="20261030120800 +0800">
+		<title lang="zh">22_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
