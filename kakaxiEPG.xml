@@ -16881,6 +16881,15 @@
 	<programme channel="咪咕综合体育" start="20261031111500 +0800" stop="20261031115500 +0800">
 		<title lang="zh">泳者孙杨观察室第一期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261031120000 +0800" stop="20261031120500 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261031121500 +0800" stop="20261031122000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261031122000 +0800" stop="20261031140000 +0800">
+		<title lang="zh">中超来噜-2026赛季中超 第28轮 北京国安-青岛西海岸</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16928,6 +16937,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20261031105000 +0800" stop="20261031114500 +0800">
 		<title lang="zh">谁羽争锋-2026BWF北极羽毛球公开赛 女双决赛 陈樊淑湉/罗徐敏-许尹鏸/林芝昀</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261031114500 +0800" stop="20261031115500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261031121000 +0800" stop="20261031134500 +0800">
+		<title lang="zh">当燃CBA-26/27赛季常规赛第5轮 浙江浙商证券-辽宁本钢</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -57840,6 +57855,9 @@
 	<programme channel="newtv超级综艺" start="20261031110700 +0800" stop="20261031122400 +0800">
 		<title lang="zh">全民畅舞</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261031122400 +0800" stop="20261031140800 +0800">
+		<title lang="zh">第二届丝路之星国际音乐大赛</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -57873,6 +57891,9 @@
 	<programme channel="newtv超级体育" start="20261031100000 +0800" stop="20261031123000 +0800">
 		<title lang="zh">2026/2027赛季美国职业篮球联赛-杯赛（湖人-勇士）</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261031123000 +0800" stop="20261031130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -57902,6 +57923,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261031104800 +0800" stop="20261031115600 +0800">
 		<title lang="zh">机械玩家</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261031115600 +0800" stop="20261031133200 +0800">
+		<title lang="zh">敦刻尔克行动</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -57950,6 +57974,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261031111500 +0800" stop="20261031120100 +0800">
 		<title lang="zh">17_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261031120100 +0800" stop="20261031124600 +0800">
+		<title lang="zh">18_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261031124600 +0800" stop="20261031133200 +0800">
+		<title lang="zh">19_刑警的日子</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -58550,6 +58580,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261031105500 +0800" stop="20261031114000 +0800">
 		<title lang="zh">27_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261031114000 +0800" stop="20261031121500 +0800">
+		<title lang="zh">TEWYOL远红外前列腺理疗贴-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261031121500 +0800" stop="20261031125900 +0800">
+		<title lang="zh">34_风声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
