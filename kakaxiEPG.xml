@@ -17316,6 +17316,12 @@
 	<programme channel="咪咕足球" start="20261103190000 +0800" stop="20261103191000 +0800">
 		<title lang="zh">中国榜样篮球季对话孙军</title>
 	</programme>
+	<programme channel="咪咕足球" start="20261103191000 +0800" stop="20261103192000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261103192000 +0800" stop="20261103213500 +0800">
+		<title lang="zh">当燃CBA-26/27赛季常规赛第8轮 北京首钢-宁波町渥 直播</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -57747,6 +57753,9 @@
 	<programme channel="newtv超级综艺" start="20261103182300 +0800" stop="20261103194000 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261103194000 +0800" stop="20261103205700 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -57807,6 +57816,9 @@
 	<programme channel="newtv超级体育" start="20261103190000 +0800" stop="20261103193000 +0800">
 		<title lang="zh">实况录像-精品赛事记录-2026年世界泳联游泳世界杯 乌兹别克斯坦站 中国队金牌</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261103193000 +0800" stop="20261103213000 +0800">
+		<title lang="zh">WTT法兰克福冠军赛2026-第1轮1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -57848,6 +57860,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261103175500 +0800" stop="20261103191900 +0800">
 		<title lang="zh">巨兽来袭3</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261103191900 +0800" stop="20261103205500 +0800">
+		<title lang="zh">军火厂</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -57926,6 +57941,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261103190300 +0800" stop="20261103195000 +0800">
 		<title lang="zh">44_安家</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261103195000 +0800" stop="20261103203700 +0800">
+		<title lang="zh">23_兰香如故</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261103203700 +0800" stop="20261103212500 +0800">
+		<title lang="zh">24_兰香如故</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -58565,6 +58586,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261103185800 +0800" stop="20261103194100 +0800">
 		<title lang="zh">11_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261103194100 +0800" stop="20261103201800 +0800">
+		<title lang="zh">三王圣果有机刺梨汁好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261103201800 +0800" stop="20261103210200 +0800">
+		<title lang="zh">12_黎明决战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
